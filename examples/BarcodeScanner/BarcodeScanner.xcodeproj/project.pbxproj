@@ -223,6 +223,11 @@
 			attributes = {
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Draconis Software";
+				TargetAttributes = {
+					024D10DA156EAB6F00FE6872 = {
+						DevelopmentTeam = QGKWR4BM5D;
+					};
+				};
 			};
 			buildConfigurationList = 024D10D5156EAB6E00FE6872 /* Build configuration list for PBXProject "BarcodeScanner" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -418,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = QGKWR4BM5D;
 				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BarcodeScanner-Prefix.pch";
@@ -436,6 +442,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
+				DEVELOPMENT_TEAM = QGKWR4BM5D;
 				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BarcodeScanner-Prefix.pch";
